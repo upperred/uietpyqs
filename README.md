@@ -7,7 +7,7 @@ So right now, this is my 1st sem of 1st year and i want to add my 1st mid sem ex
 ### Steps
 1. Fork this repo.
 2. Create a pdf file less than 2mb containing all subject papers of 1st mid sem exam.
-3. ### Now naming of is important-
+3. ### Now naming is important-
 
 **Name format= Entry year+Present year+Sem no.+X.pdf**
 
