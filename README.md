@@ -10,8 +10,8 @@ So right now, this is my 1st sem of 1st year and i want to add my 1st mid sem ex
 3. ### Now naming of is important-
 
 **Name format= Entry year+Present year+Sem no.+X.pdf**
-where
-    -- Entry year=22 (for students right now in second year)
+
+    -- Entry year= 22 (for students right now in second year)
                    23 (for students right now in first year)
 
      -- Present year= 1 (for 1st year student)
