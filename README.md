@@ -30,7 +30,7 @@ So right now, this is my 1st sem of 1st year and i want to add my 1st mid sem ex
 So for the example taken above the pdf file name would be **23111.pdf**
 
 4. Add that or upload that pdf file to the folder 2023-27pdfs.
-5. Now come to the file 2023-27_1st.html and go to the CSE-AI heading under that you can find the line
+5. Now come to the file 2023-27_1st.html and go to the line ` <h2>CSE-AI</h2>`under that you can find the line
    `<h3>1 sem</h3>`under that`<li>1st mid sem</li>`
    change it to
 `<li><a href="2023-27pdfs/23111.pdf">1st mid sem</a></li>`
