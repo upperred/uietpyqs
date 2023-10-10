@@ -18,9 +18,6 @@ h2{
 h1, h2, h3{
 	text-align: center;
       }
-.center{
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	width: 100%;
+img{
+	padding: 10px;
 }
