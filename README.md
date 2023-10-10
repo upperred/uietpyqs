@@ -9,7 +9,7 @@ So right now, this is my 1st sem of 1st year and i want to add my 1st mid sem ex
 2. Create a pdf file less than 2mb containing all subject papers of 1st mid sem exam.
 3. ### Now naming  of pdf file is important-
 
-**Name format= Entry year+Present year+Sem no.+X.pdf**
+**Name format= Entry year+Present year+Sem no.+X+Branch name.pdf**
 
     -- Entry year= 22 (for students right now in second year)
                    23 (for students right now in first year)
@@ -27,7 +27,14 @@ So right now, this is my 1st sem of 1st year and i want to add my 1st mid sem ex
            2 (2nd mid sem)
            3 (quiz)
            4 (end sem)
-So for the example taken above the pdf file name would be **23111.pdf**
+
+      --Branch name= it (for Information Technology)
+                     cse (for Computer Science)
+                     cseai (for Computer Science(AI))
+                     ece (for Electronics and Communication)
+                     che (for Chemical Engineering)
+                     mee (for Mechanical Engineering)
+So for the example taken above the pdf file name would be **23111cseai.pdf**
 
 4. Add that or upload that pdf file to the folder 2023-27pdfs.
 5. Now come to the file 2023-27_1st.html and go to the line ` <h2>CSE-AI</h2>`under that you can find the line
