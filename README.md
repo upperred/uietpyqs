@@ -36,12 +36,14 @@ So right now, this is my 1st sem of 1st year and i want to add my 1st mid sem ex
                      mee (for Mechanical Engineering)
 So for the example taken above the pdf file name would be **23111cseai.pdf**
 
-4. Add that or upload that pdf file to the folder 2023-27pdfs.
+4. Add that or upload that pdf file to the folder 2023-27pdfs in your forked repo.
 5. Now come to the file 2023-27_1st.html and go to the line ` <h2>CSE-AI</h2>`under that you can find the line
    `<h3>1 sem</h3>`under that`<li>1st mid sem</li>`
    change it to
-`<li><a href="2023-27pdfs/23111.pdf">1st mid sem</a></li>`
+`<li><a href="2023-27pdfs/23111.pdf">1st mid sem</a></li>` in your forked repo.
 7. Now verify the changes and send a pull request....
+
+### These steps written for specific example(1st year CSE-AI student, who want to upload his 1st mid Que. paper of 1st sem), So make appropriate changes according to your condition.
 
 **I am looking forward for your contribution.**
 
