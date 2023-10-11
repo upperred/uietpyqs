@@ -43,7 +43,7 @@ So for the example taken above the pdf file name would be **23111cseai.pdf**
 `<li><a href="2023-27pdfs/23111.pdf">1st mid sem</a></li>` in your forked repo.
 7. Now verify the changes and send a pull request....
 
-### These steps written for specific example(1st year CSE-AI student, who want to upload his 1st mid Que. paper of 1st sem), So make appropriate changes according to your condition.
+### Notice:- These steps written for specific example(1st year CSE-AI student, who want to upload his 1st mid Que. paper of 1st sem), So make appropriate changes according to your condition.
 
 **I am looking forward for your contribution.**
 
