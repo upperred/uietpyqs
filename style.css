@@ -23,6 +23,7 @@ img{
 }
 strong {
 	color: red;
+	
 }
 .custom-button {
    background-color: blue;
@@ -31,4 +32,8 @@ strong {
    border: none;
    border-radius: 5px;
    cursor: pointer;
+	
+}
+button {
+   font-size: 35px;
 }
