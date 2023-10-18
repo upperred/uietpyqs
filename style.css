@@ -1,6 +1,6 @@
 body { 
-	color: black;
-	background: #62B566;
+	color: white;
+	background: black;
 
 	max-width: 800px;
 	margin-left: auto;
@@ -25,7 +25,7 @@ strong {
 	color: red;
 }
 .custom-button {
-   background-color:#e517cb ;
+   background-color: blue;
    color: white;
    padding: 20px 30px;
    border: none;
