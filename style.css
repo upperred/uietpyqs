@@ -1,6 +1,6 @@
 body { 
-	color: white;
-	background: black;
+	color: Black;
+	background:#C2D9FF;
 
 	max-width: 800px;
 	margin-left: auto;
@@ -10,10 +10,10 @@ body {
 
      }
 h1 {
-	color: red;
+	color:#7752FE;
    }
 h2{
-	color: green;
+	color: Black;
   }
 h1, h2, h3{
 	text-align: center;
