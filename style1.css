@@ -27,11 +27,43 @@ position: static;
 margin-left: 30%;
 gap: 2rem;
 }
-.foot{
+.foot{/*********** HIDDEN MENU section  *************/
+
+.hidden-menu-items {
+  display: none;
+  position: absolute;
+  z-index: 2;
+}
+
+
+/******* This displays the menu on click *******/
+
+.menu-button {
+  cursor: pointer;
+}
+.menu-open-indicator,
+.menu-close-indicator {
+  display: none;
+}
+.menu-open-indicator:checked ~ .menu-open,
+.menu-close {
+  display: none;
+}
+.menu-open-indicator:checked ~ .menu-close,
+.menu-open-indicator:checked ~ .hidden-menu-items {
+  display: block;
+}
    align-content: center;
 }
 .bun{
    background-color:#B6FFFA; 
+}
+
+
+
+
+
+    
    
 }hr{
     background-color: plum;
