@@ -1,0 +1,39 @@
+body {
+    background-color:#C2D9FF;
+}
+h1 {
+  text-transform: uppercase;
+  color: #7752FE;
+  font-size: 3rem;
+}
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: #190482;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+
+}
+.motivation-img {
+    border: 5px solid aliceblue;
+    width:100% ;
+    
+
+}
+#nice {
+    display:flex;
+position: static;
+margin-left: 30%;
+gap: 2rem;
+}
+.foot{
+   align-content: center;
+}
+.bun{
+   background-color:#B6FFFA; 
+   
+}hr{
+    background-color: plum;
+    height: 2px;
+}
