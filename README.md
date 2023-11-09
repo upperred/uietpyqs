@@ -1,5 +1,5 @@
 # uietpyqs
-## How can you contribute?
+## How can you upload PYQs?
 
 I am going to explain it with a example, suppose i am a student of CSE-AI branch of batch 2023-27.
 So right now, this is my 1st sem of 1st year and i want to add my 1st mid sem exam question paper
